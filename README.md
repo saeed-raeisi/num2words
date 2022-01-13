@@ -1,5 +1,5 @@
-# Read me this number
-Read me this number python  -- Convert number to Persian  -- تبدیل عدد به فارسی
+# Convert numbers to Persian words.
+num2words  -- Convert number to Persian  -- تبدیل عدد به فارسی
 
 <img src="/pic.PNG" width="850" height="550" alt="accessibility text">
 
